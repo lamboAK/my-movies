@@ -88,3 +88,7 @@ function App() {
 
 export default App;
 // Exports the `App` component as the default export for use in other parts of the application.
+
+// sandrabarnes127
+// HjpFpaTEpjvLRee7
+// mongodb+srv://sandrabarnes127:HjpFpaTEpjvLRee7@cluster0.4q1sr.mongodb.net/My-films?retryWrites=true&w=majority&appName=Cluster0
